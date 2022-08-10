@@ -5,3 +5,6 @@ p5.js is used to render the algorithms. The position and scale of different algo
 
 An example of the code can be found here:
 https://hjijijing.github.io/sortingalgovisualizer
+
+
+![Visualization of the tool](https://github.com/hjijijing/sortingalgovisualizer/algorithmsforgithub.gif)
